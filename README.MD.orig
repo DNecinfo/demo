@@ -3,5 +3,9 @@
 This is a simple readmen file
 sedfasdgsg
 
+<<<<<<< HEAD
 I hope this isnt much of a problem
-this is an uupdate
+
+=======
+This is bound to cause trouble
+>>>>>>> very-bad
